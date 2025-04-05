@@ -4,6 +4,8 @@ A calculator for total time spent in calls with specific person on discord!
 
 If you are wondering how to use this tool here are the steps.
 
+https://chromewebstore.google.com/detail/discrub/plhdclenpaecffbcefjmpkkbdpkmhhbj?hl=en-US
+
 1. Get the "Discrub" extension on your browser.
 2. Go to the Discord Site.
 3. Click the new Discrub button in the top right.
